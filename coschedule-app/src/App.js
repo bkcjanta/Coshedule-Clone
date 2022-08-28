@@ -1,4 +1,5 @@
 import './App.css';
+import "./signup.css"
 import AllRoutes from './Routes/AllRoutes';
 function App() {
   return (
